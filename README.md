@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamremaram&label=Profile%20views&color=0e75b6&style=flat" alt="tamremaram" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://tamremariambelete.netlify.app/](https://tamremariambelete.netlify.app/)
+- 👨‍💻 My website available at [https://tamremariambelete.netlify.app/](https://tamremariambelete.netlify.app/)
 
 - 💬 Ask me about **flutter, node**
 
