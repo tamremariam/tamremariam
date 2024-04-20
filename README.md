@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tamremariam Belete</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 👨‍💻 All of my website available at [https://tamremariambelete.netlify.app/](https://tamremariambelete.netlify.app/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamremaram&label=Profile%20views&color=0e75b6&style=flat" alt="tamremaram" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://tamremariambelete.netlify.app/](https://tamremariambelete.netlify.app/)
 
 - 💬 Ask me about **flutter, node**
 
