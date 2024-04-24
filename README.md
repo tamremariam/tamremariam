@@ -11,9 +11,9 @@
   
 🌱 I’m currently learning **node.js**
 
-💬 Ask me about **flutter, Firebase... or anything [here](https://github.com/tamremariam/tamremariam/issues)**
+🔭 I’m currently working on **flutter project**
 
-🔭 I’m currently working on **self motivated flutter project**
+💬 Ask me about **flutter, Firebase... or anything [here](https://github.com/tamremariam/tamremariam/issues)**
 
 👨‍💻 My website available at [https://tamremariambelete.netlify.app/](https://tamremariambelete.netlify.app/)
 
