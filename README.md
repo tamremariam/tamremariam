@@ -9,7 +9,7 @@
 
 <div align="center">
   
-🌱 I’m currently learning **node.js**
+🌱 I’m currently learning **flutter**
 
 🔭 I’m currently working on **flutter project**
 
