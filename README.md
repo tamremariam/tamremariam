@@ -69,12 +69,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamremariam&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tamremariam" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tamremariam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="tamremariam" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamremariam&show_icons=true&locale=en&theme=tokyonight" alt="tamremariam" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamremariam&theme=tokyonight" alt="tamremariam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamremariam&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="tamremariam" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamremariam&theme=transparent&hide_border=true" alt="tamremariam" />
 </p>
 
 ---
